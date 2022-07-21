@@ -1,0 +1,20 @@
+{
+  "termName": "Measure",
+  "description": "A unit of measurement that shows if the work we’re doing in a particular area is working. Can be a performance measure or a results measure.",
+  "definition": {
+    "definitionText1": "A unit of measurement that shows if the work we’re doing in a particular area is working. Can be a performance measure or a results measure."
+  },
+  "purpose": {
+    "purposeText1": "Gives us the means to analyse progress at a granular level, and distinguish measurement of the work we have in flight (performance) from measurement of the impact and outcomes of the work we deliver (result)."
+  },
+  "parent": {
+    "parentTermName": "Measurement",
+    "parentTermURL": "measurement"
+  },
+  "child": {
+    "childTermName1": [
+      {"label":"Results measure", "URL": "results-measure"}
+    ]
+  },
+  "initial": "m"
+}

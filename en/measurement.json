@@ -1,0 +1,19 @@
+{
+  "termName": "Measurement",
+  "description": "How we determine if the work we do is working.",
+  "definition": {
+    "definitionText1": "How we determine if the work we do is working."
+  },
+  "purpose": {
+    "purposeText1": "It gives us the means to analyse our progress at different levels: feature, product, team; or experience, operational, policy, strategy."
+  },
+  "child": {
+    "childTermName1": [
+      {"label":"Performance", "URL": "performance"}
+    ],
+    "childTermName2": [
+      {"label":"Measure", "URL": "measure"}
+    ]
+  },
+  "initial": "m"
+}

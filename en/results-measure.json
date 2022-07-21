@@ -1,0 +1,21 @@
+{
+  "termName": "Results measure",
+  "description": "A unit of measurement that shows if the work we deliver is meeting the impact and outcomes we’ve defined.",
+  "definition": {
+    "definitionText1": "A unit of measurement that measures results. It shows if the work we deliver is meeting the impact and outcomes we’ve defined.",
+    "definitionText2": "David Parmenter defines results measures as a summation of more than one team’s input. They show how teams are combining to produce results."
+  },
+  "purpose": {
+    "purposeText1": "It shows us if the work we deliver is meeting our objectives at a high-level."
+  },
+  "parent": {
+    "parentTermName": "Measure",
+    "parentTermURL": "measure"
+  },
+  "source": {
+    "sourceName1": [
+      {"label":"Partially adapted from David Parmenter’s book, Key Performance Indicators (KPIs) third edition, (2015: 3–4)", "URL": "https://kpi.davidparmenter.com/wp-content/uploads/sites/6/2017/02/chapter-1-The-great-misunderstanding-Third-edition-of-KPI-book-by-David-Parmenter1.pdf"}
+    ]
+  },
+  "initial": "r"
+}

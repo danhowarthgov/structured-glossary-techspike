@@ -1,0 +1,21 @@
+{
+  "termName": "Metadata",
+  "description": "Metadata is data about data. It’s usually a set of data that describes contextual information on another set of data. It helps to organise, find, understand and manage data.",
+  "definition": {
+    "definitionText1": "Metadata is data about data. It’s usually a set of data that describes contextual information on another set of data. It helps to organise, find, understand and manage data."
+  },
+  "purpose": {
+    "purposeText1": "Metadata makes it much easier to find, manage and understand data.",
+    "purposeText2": "For example, this glossary is full of metadata about terms. It puts terms in context and makes them easier to understand by putting definitions, purpose and related terms in a clear and consistent structure that you can search."
+  },
+  "parent": {
+    "parentTermName": "Data",
+    "parentTermURL": "data"
+  },
+  "source": {
+    "sourceName1": [
+      {"label":"National Data Strategy glossary", "URL": "https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#glossary"}
+    ]
+  },
+  "initial": "m"
+}

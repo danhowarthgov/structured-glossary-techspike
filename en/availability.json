@@ -1,0 +1,21 @@
+{
+  "termName": "Availability",
+  "description": "Data availability means having an environment where people have appropriate access to data, data is available for re-use (where appropriate), and there is efficient and safe flow of data between individuals and organisations.",
+  "definition": {
+    "definitionText1": "Data availability means having an environment where people have appropriate access to data, data is available for re-use (where appropriate), and there is efficient and safe flow of data between individuals and organisations."
+  },
+  "purpose": {
+    "purposeText1": "It’s crucial for meeting the objectives set out in the Digital Health and Disability Strategy."
+  },
+  "synonyms": "Data sharing, data discoverability, data access, data availability, data portability, data mobility",
+  "parent": {
+    "parentTermName": "Data",
+    "parentTermURL": "data"
+  },
+  "source": {
+    "sourceName1": [
+      {"label":"National Data Strategy glossary", "URL": "https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#glossary"}
+    ]
+  },
+  "initial": "a"
+}
