@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
 
 router.get('/:termName', (req, res) => {
     const { termName } = req.params
-    const item = _.findWhere(data, {termName: capitalizeFirstLetter(termName.replace('_', ' '))})
+    const item = _.findWhere(data, {termName: capitalizeFirstLetter(termName.replace('-', ' '))})
     res.render('terms.html', { item })
 })
 
