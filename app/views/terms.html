@@ -1,0 +1,91 @@
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Home – GOV.UK Prototype Kit
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+
+  
+      <h1 class="govuk-heading-l">
+          
+<!-- "termName: " -->
+
+        </h1>
+
+
+          <h2 class="govuk-heading-m">Definition</h2>
+
+<!-- Add text from "definition" object. There'll be up to 4 lines, but usually only 1:
+
+    definitionText1
+    definitionText2
+    definitionText3
+    definitionText4
+
+-->
+
+            <h2 class="govuk-heading-m">Purpose</h2>
+
+<!-- Add text from "purpose" object. There'll be up to 4 lines, but usually only 1:
+
+    purposeText1
+    purposeText2
+    purposeText3
+    purposeText4
+
+-->
+
+
+          <h2 class="govuk-heading-l">Synonyms</h2>
+
+<!-- add text from "synonyms" object. 
+    
+    Some of the JSON files don't contain it, as there are no synonyms. If so, please can "No synonyms defined." be output?
+
+-->
+
+
+          <h2 class="govuk-heading-l">Parent term</h2>
+
+<!-- add "parent" objects:  
+
+    "parentTermName" as text, with "parentTermURL" as embedded hyperlink. Note that the "parentTermURL" value is just the filename with no leading slash.
+
+    In some cases where it's a top term, there is no parent, and thus no 'parent' objects in the JSON file. If so, please can "None – this is a top term" be output?
+
+-->
+
+
+            <h2 class="govuk-heading-l">Child terms</h2>
+
+<!-- add "child" objects. There may be more than one, but in most cases there are zero. If there are zero children, please can "None defined" be output?
+
+    Multiple items have an incremental suffix, "childTermName1", "childTermName2", etc. 
+    
+    Each child object has label and URL in an array. Please embed "URL" as hyperlink behind the label. Note that the "URL" value is just the filename with no leading slash.
+
+--> 
+
+
+            <h2 class="govuk-heading-l">Source</h2>
+
+<!-- add "source" objects. There may be more than one, but in most cases there are zero. If there are zero children, please can "None defined" be output?
+
+    Multiple items have an incremental suffix, "sourceName1", "sourceName2", etc. 
+    
+    Each source object has label and URL in an array. Please embed "URL" as hyperlink behind the label. In this case, it's a full external URL.
+
+--> 
+
+
+<h2 id="feedback" class="govuk-heading-l">Feedback</h2>
+<p class="govuk-body">Is this term incorrect, or is there something missing? Tell us using the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank" class="govuk-link">feedback form (opens in new tab)</a>.</p>
+
+
+
+{% endblock %}
