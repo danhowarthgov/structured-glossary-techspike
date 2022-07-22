@@ -3,14 +3,24 @@
   "description": "A unit of measurement that shows if the work we deliver is meeting the impact and outcomes we’ve defined.",
   "definition": {
     "definitionText1": "A unit of measurement that measures results. It shows if the work we deliver is meeting the impact and outcomes we’ve defined.",
-    "definitionText2": "David Parmenter defines results measures as a summation of more than one team’s input. They show how teams are combining to produce results."
+    "definitionText2": "David Parmenter defines results measures as a summation of more than one team’s input. They show how teams are combining to produce results.",
+    "definitionText3": {},
+    "definitionText4": {}
   },
   "purpose": {
-    "purposeText1": "It shows us if the work we deliver is meeting our objectives at a high-level."
+    "purposeText1": "It shows us if the work we deliver is meeting our objectives at a high-level.",
+    "purposeText2": {},
+    "purposeText3": {},
+    "purposeText4": {}
   },
+  "synonyms": {},
   "parent": {
     "parentTermName": "Measure",
     "parentTermURL": "measure"
+  },
+  "child": {
+    "childTermName1": [],
+    "childTermName2": []
   },
   "source": {
     "sourceName1": [

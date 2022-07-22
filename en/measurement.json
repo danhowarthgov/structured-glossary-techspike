@@ -2,10 +2,21 @@
   "termName": "Measurement",
   "description": "How we determine if the work we do is working.",
   "definition": {
-    "definitionText1": "How we determine if the work we do is working."
+    "definitionText1": "How we determine if the work we do is working.",
+    "definitionText2": {},
+    "definitionText3": {},
+    "definitionText4": {}
   },
   "purpose": {
-    "purposeText1": "It gives us the means to analyse our progress at different levels: feature, product, team; or experience, operational, policy, strategy."
+    "purposeText1": "It gives us the means to analyse our progress at different levels: feature, product, team; or experience, operational, policy, strategy.",
+    "purposeText2": {},
+    "purposeText3": {},
+    "purposeText4": {}
+  },
+  "synonyms": {},
+  "parent": {
+    "parentTermName": {},
+    "parentTermURL": {}
   },
   "child": {
     "childTermName1": [
@@ -14,6 +25,10 @@
     "childTermName2": [
       {"label":"Measure", "URL": "measure"}
     ]
+  },
+  "source": {
+    "sourceName1": [],
+    "sourceName2": []
   },
   "initial": "m"
 }

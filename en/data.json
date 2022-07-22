@@ -4,7 +4,8 @@
   "definition": {
     "definitionText1": "In general, data can be understood as discrete values and statistics collected together for reference or analysis.",
     "definitionText2": "When we refer to data, we mean both data about people generated through their interactions with services, and also data about systems and infrastructure such as businesses and public services. Data can be operational (collected in the process of running services or businesses), as well as analytical and statistical.",
-    "definitionText3": "Personal data means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person."
+    "definitionText3": "Personal data means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.",
+    "definitionText4": {}
   },
   "purpose": {
     "purposeText1": "Designing with and for data is one of the objectives of the Digital Health and Disability Strategy: 2022 to 2025.",
@@ -12,6 +13,7 @@
     "purposeText3": "Data is used in our services and by those designing, delivering and measuring them. To do this we need to combine qualitative and quantitative data from different sources.",
     "purposeText4": "We design our services and ways of working with data flow in mind. Data needs to be connected between different services and the wider organisation."
   },
+  "synonyms": {},
   "child": {
     "childTermName1": [
       {"label":"Availability", "URL": "availability"}
@@ -28,7 +30,7 @@
       {"label":"Definition: Data Ethics Framework glossary", "URL": "https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-glossary-and-methodology#data"}
     ],
     "sourceName2": [
-      {"label":"Purpose: Digital Health and Disability Strategy, 2022 to 2025"}
+      {"label":"Purpose: Digital Health and Disability Strategy, 2022 to 2025","URL": {}}
     ]
   },
   "initial": "d"

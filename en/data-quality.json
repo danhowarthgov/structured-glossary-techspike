@@ -2,14 +2,25 @@
   "termName": "Data quality",
   "description": "Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent.",
   "definition": {
-    "definitionText1": "Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent."
+    "definitionText1": "Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent.",
+    "definitionText2": {},
+    "definitionText3": {},
+    "definitionText4": {}
   },
   "purpose": {
-    "purposeText1": "Data quality is what makes data useful. Data quality is an outcome of the Digital Health and Disability data strategy."
+    "purposeText1": "Data quality is what makes data useful. Data quality is an outcome of the Digital Health and Disability data strategy.",
+    "purposeText2": {},
+    "purposeText3": {},
+    "purposeText4": {}
   },
+  "synonyms": {},
   "parent": {
     "parentTermName": "Data",
     "parentTermURL": "data"
+  },
+  "child": {
+    "childTermName1": [],
+    "childTermName2": []
   },
   "source": {
     "sourceName1": [
