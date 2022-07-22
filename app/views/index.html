@@ -19,27 +19,24 @@
           	    An A to Z of terms we use for data and measurement in DWP Digital Health and&nbsp;Disability.
         	    </p>
 
+ {% for letter, items in groupedData %}
 
-          <h2 class="govuk-heading-l">A</h2>
+          <h2 class="govuk-heading-l">{{ letter | upper }} </h2>
 
-<!-- add A to Z content type here, with variable "initial: 'a'" -->
+          {% for item in items %}
+          <h3 id="linked-data" tabindex="-1" class="govuk-heading-m">
+            <a href="" class="govuk-link">{{ item.termName }}</a>
+          </h3>
 
+          <p> {{ item.description }} </p>
+          <!--
+          {{ item | dump }}
+          -->
+          {% endfor %}
 
-          <h2 class="govuk-heading-l">D</h2>
+          <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
 
-<!-- add A to Z content type here, with variable "initial: 'd'" -->
-
-
-          <h2 class="govuk-heading-l">M</h2>
-
-<!-- add A to Z content type here, with variable "initial: 'm'" -->
-
-
-          <h2 class="govuk-heading-l">R</h2>
-
-<!-- add A to Z content type here, with variable "initial: 'r'" -->
-
-
+ {% endfor %}
 
 
 
